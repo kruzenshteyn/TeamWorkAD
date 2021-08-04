@@ -1,0 +1,15 @@
+.place__info {
+  margin: 0;
+  grid-area: text;
+  background-color: #F2F2F2;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media screen and (max-width:768px){
+  .place__info{
+    height: 70vw;
+  }
+}
