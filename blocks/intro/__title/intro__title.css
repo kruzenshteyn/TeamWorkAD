@@ -1,5 +1,5 @@
 .intro__title {
-  font-size: 72px;
+  font-size: 72px; /*ТУТ БЫЛ КОНФЛИКТ*/
   line-height: 1.04;
   text-align: left;
   font-weight: 900;
