@@ -44,3 +44,6 @@ p{
   outline: 1px rgb(153, 0, 255) solid;
 }
 
+header {
+  outline: 1px solid slategray;
+}

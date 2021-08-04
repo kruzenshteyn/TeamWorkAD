@@ -7,9 +7,24 @@
     <title>Куда я поеду</title>
   </head>
   <body class="root">
-    <header class="header">
-      <p>Здесь будет Header</p> <!--ТУТ БЫЛ КОНФЛИКТ-->
+    <header class="header root__header">
+      <ul class="header__links">
+        <li><a href="#" class="header__link" target="_blank">Мечты</a></li>
+        <li><a href="#" class="header__link" target="_blank">Ожидания</a></li>
+        <li><a href="#" class="header__link" target="_blank">Реальность</a></li>
+      </ul>
+      <button class="header__complain-button">Пожаловаться</button>
     </header>
+
+    <!--
+        <header class="header page__header">
+    <img class="header__logo" src="./images/header-logo.svg" alt="Карта России на логотипе">
+    <ul class="header__lang-links">
+      <li><a href="#" class="header__lang-link header__lang-link_active">Ru</a></li>
+      <li><a href="#" target="_blank" class="header__lang-link">En</a></li>
+    </ul>
+  </header>
+    -->
     <main class="content">
       <section class="intro">
         <div>
