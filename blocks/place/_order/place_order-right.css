@@ -1,0 +1,12 @@
+.place__order_right{
+    grid-template-areas:
+      "text image";
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-areas:
+      "image"
+      "text";
+  }
+}
