@@ -1,0 +1,21 @@
+.header__section-link {
+  color: black;
+  text-decoration: none;
+  margin-right: 30px;
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 28px;
+  transition: .3s;
+}
+
+.header__section-link:hover {
+  opacity: .6;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+  .header__section-link {
+    font-size: 15px;
+    line-height: 17px;
+  }
+}
