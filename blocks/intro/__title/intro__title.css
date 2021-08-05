@@ -1,10 +1,25 @@
 .intro__title {
-  font-size: 72px; /*ТУТ БЫЛ КОНФЛИКТ*/
-  line-height: 1.04;
+  font-size: 72px;
+  line-height: 1.4;
   text-align: left;
   font-weight: 900;
   margin-top: 66px;
   margin-left: 160px;
 }
 
+@media screen and (max-width:2879px){
+  .intro__title{
+    font-size: 2.3vw;
+    margin-top: 2.3vw;
+    margin-left: 5.55vw;
+  }
+}
 
+@media screen and (max-width:320px){
+  .intro__title{
+    font-size: 4.4vw;
+    margin-top: 4.6vw;
+    margin-left: 11.1vw;
+    max-width: 77.8vw;
+  }
+}
