@@ -21,8 +21,6 @@
 @import url(../blocks/intro/__heading/intro__heading.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
-
-
 /*places*/
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
@@ -39,6 +37,4 @@
 
 /*footer*/
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__links/footer__links.css);
-@import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);

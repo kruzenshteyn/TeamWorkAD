@@ -1,13 +1,13 @@
 .intro__heading {
-  font-size: 28px;
+  font-size: 13px;
   line-height: 1.2;
   text-align: left;
   font-weight: 400;
-  margin: 254px 0 0 160px;
+  margin: 114px 0 0 71px;
   color: #FECDA7;
 }
 
-@media screen and (max-width:2879px){
+@media screen and (max-width:1280px){
   .intro__heading{
     font-size: 1vw;
     margin-top: 8.82vw;
