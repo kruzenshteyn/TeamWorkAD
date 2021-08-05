@@ -1,8 +1,8 @@
 .intro__heading {
-  font-size: 13px;
-  line-height: 1.2;
+  font-family: 'RobotoCondensed-Bold', Arial, sans-serif;
+  font-size: 14px;
   text-align: left;
-  font-weight: 400;
+  font-weight: 700;
   margin: 114px 0 0 71px;
   text-transform: uppercase;
   color: #FECDA7;
