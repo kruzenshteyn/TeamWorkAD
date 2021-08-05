@@ -1,16 +1,15 @@
 /*TEMP*/
 @import url(../styles/outlines.css);
 
-/*vendor*/
-@import url(../vendor/normalize.css);
-
-@import url(../vendor/fonts/inter.css);
+/* КУДА Я ПОЕДУ vendor*/
+@import url('../vendors/normalize.css');
+@import url('../vendors/fonts/fonts.css');
 
 /*main*/
 @import url(../blocks/root/root.css);
 @import url(../blocks/root/__header/root__header.css);
 
-/*HEADER*/
+/*КУДА Я ПОЕДУ HEADER*/
 @import url(../blocks/header/__section-links/header__section-links.css);
 @import url(../blocks/header/__section-link/header__section-link.css);
 @import url(../blocks/header/__complaint-link/header__complaint-link.css);
