@@ -4,6 +4,7 @@
   text-align: left;
   font-weight: 400;
   margin: 114px 0 0 71px;
+  text-transform: uppercase;
   color: #FECDA7;
 }
 
@@ -23,3 +24,19 @@
     margin-left: 11.1vw;
   }
 }
+
+
+
+
+
+  /* НИЖЕ - СВОЙСТВА, КОТОРЫЕ У ТЕБЯ ИЗНАЧАЛЬНО ИМЕЛ INTRO__HEADING.
+
+  Я ИХ ЧУТЬ ИЗМЕНИЛА, ЧТОБЫ ОНИ СОВПАДАЛИ СО ШРИФТОМ И РАЗМЕРОМ ЭЛЕМЕНТОВ
+  QUOTES__HEADING QUOTES__SOURCE. ЕСЛИ ЧТО, ПОТОМ ДОКРУТИМ.
+
+  *font-size: 28px;
+  line-height: 1.2;
+  text-align: left;
+  font-weight: 400;
+  margin: 254px 0 0 160px;
+  color: #FECDA7; */

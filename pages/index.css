@@ -2,12 +2,13 @@
 @import url(../styles/outlines.css);
 
 /* КУДА Я ПОЕДУ vendor*/
-@import url('../vendors/normalize.css');
-@import url('../vendors/fonts/fonts.css');
+@import url(../vendors/normalize.css);
+@import url(../vendors/fonts/fonts.css);
 
 /*main*/
 @import url(../blocks/root/root.css);
 @import url(../blocks/root/__header/root__header.css);
+@import url(../blocks/root/__quotes/root__quotes.css);
 
 /*КУДА Я ПОЕДУ HEADER*/
 @import url(../blocks/header/__section-links/header__section-links.css);
@@ -33,6 +34,13 @@
 @import url(../blocks/place/__title/place__title.css);
 
 
+/* КУДА Я ПОЕДУ QUOTES*/
+@import url(../blocks/quotes/__heading/quotes__heading.css);
+@import url(../blocks/quotes/__title/quotes__title.css);
+@import url(../blocks/quotes/__container/quotes__container.css);
+@import url(../blocks/quotes/__quote/quotes__quote.css);
+@import url(../blocks/quotes/__source/quotes__source.css);
+@import url(../blocks/quotes/__text/quotes__text.css);
 
 
 /*footer*/

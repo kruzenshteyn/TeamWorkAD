@@ -1,31 +1,27 @@
-.root__header {
-  background-color: #fff;
+.root__quotes {
   max-width: 89%;
-  margin-top: 110px;
+  margin-top: 130px;
   margin-right: auto;
-  margin-bottom: 80px;
+  margin-bottom: 130px;
   margin-left: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 @media screen and (max-width: 1279px) {
-  .root__header {
+  .root__quotes {
     max-width: 90.6%;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .root__header {
+  .root__quotes {
     max-width: 93.7%;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .root__header {
+  .root__quotes {
     max-width: 90%;
-    margin-top: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
 }
-

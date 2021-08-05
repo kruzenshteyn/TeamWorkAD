@@ -1,3 +1,4 @@
+
 @font-face {
   font-family: 'Raleway-Regular';
   font-style: normal;
@@ -14,4 +15,13 @@
   font-display: swap;
   src: url('./Raleway-Bold.woff2') format('woff2'),
        url('./Raleway-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'RobotoCondensed-Bold';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./RobotoCondensed-Bold.woff2') format('woff2'),
+       url('./RobotoCondensed-Bold.woff') format('woff');
 }

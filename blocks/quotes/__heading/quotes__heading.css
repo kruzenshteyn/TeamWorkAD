@@ -1,0 +1,12 @@
+.quotes__heading {
+  color: #fecda7;
+  margin: 0;
+  margin-bottom: 30px;
+  padding: 0;
+  font-family: 'RobotoCondensed-Bold', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.04vw;
+  line-height: 19px;
+  text-transform: uppercase;
+}
