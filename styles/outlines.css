@@ -1,4 +1,8 @@
 
+.quotes {
+  outline: 1px solid
+}
+
 body{
   outline: 1px solid green; /*ЗДЕСЬ БЫЛ КОНФЛИКТ ИЗ-ЗА ЦВЕТА*/
 }

@@ -2,8 +2,8 @@
 @import url(../styles/outlines.css);
 
 /* КУДА Я ПОЕДУ vendor*/
-@import url('../vendors/normalize.css');
-@import url('../vendors/fonts/fonts.css');
+@import url(../vendors/normalize.css);
+@import url(../vendors/fonts/fonts.css);
 
 /*main*/
 @import url(../blocks/root/root.css);
