@@ -1,10 +1,25 @@
 .intro__heading {
-  font-size: 28px; /*ТУТ БЫЛ КОНФЛИКТ */
+  font-size: 28px;
   line-height: 1.2;
   text-align: left;
   font-weight: 400;
   margin: 254px 0 0 160px;
-  margin-top: 254px;
-  margin-left: 160px;
   color: #FECDA7;
+}
+
+@media screen and (max-width:2879px){
+  .intro__heading{
+    font-size: 1vw;
+    margin-top: 8.82vw;
+    margin-left: 5.55vw;
+  }
+}
+
+
+@media screen and (max-width:320px){
+  .intro__heading{
+    font-size: 2vw;
+    margin-top: 17.6vw;
+    margin-left: 11.1vw;
+  }
 }
