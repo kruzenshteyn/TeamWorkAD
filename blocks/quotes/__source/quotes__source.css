@@ -5,8 +5,8 @@
   font-family: Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 1vw;
-  line-height: 14px;/* Здесь должен быть коэффициент, иначе на меньших разрешениях разметка поплывет*/
+  font-size: 12px;
+  line-height: 1;
   text-transform: uppercase;
 }
 

@@ -3,18 +3,12 @@
   max-width: 89%;
   margin-top: 30px;
   margin-right: auto;
-  margin-bottom: 80px;
+  margin-bottom: 75px;
   margin-left: auto;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   flex-wrap: wrap;
-}
-
-@media screen and (max-width:1280px){
-  .root__header{
-    max-width: 90.6%;
-  }
 }
 
 @media screen and (max-width:320px){

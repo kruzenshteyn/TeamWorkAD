@@ -3,8 +3,7 @@
   font-size: 30px;
   line-height: 1.4;
   text-align: left;
-  font-weight: 700; /*Я ПЕРЕПРОВЕРИЛА ШРИФТЫ ПО ФИГМЕ, И ТАМ ТЕ, ЧТО ЖИРНЫЕ, ВСЕ ПО 700. А У НАС КОЕ-ГДЕ СТОЯЛО 900.
-  ПОПРАВИЛА. ЗДЕСЬ У ТЕБЯ СТОЯЛО 900, НАПРИМЕР*/
+  font-weight: 700;
   margin-top: 25px;
   margin-left: 71px;
 }
