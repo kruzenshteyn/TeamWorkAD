@@ -16,7 +16,6 @@
 
 @media screen and (max-width: 320px) {
   .header__section-link {
-    font-size: 15px;
-    line-height: 17px;
+    font-size: 7vh;
   }
 }
