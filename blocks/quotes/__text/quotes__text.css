@@ -5,3 +5,15 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width:950px){
+  .quotes__text {
+    font-size: 1.8vw;
+  }
+}
+
+@media screen and (max-width:320px){
+  .quotes__text {
+    font-size: 3.5vw;
+  }
+}

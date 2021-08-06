@@ -1,5 +1,5 @@
 .quotes__title {
-  width: 480px;
+  max-width: 480px;
   font-family: Roboto, Arial, sans-serif;
   font-size: 36px;
   line-height: 42px;
@@ -19,5 +19,13 @@
 @media screen and (max-width: 768px) {
   .quotes__title {
     font-size: 4.7vw;
+  }
+}
+
+@media screen and (max-width:320px){
+  .quotes__title{
+    max-width: 90%;
+    line-height: 1.4;
+    margin-bottom: 10%;
   }
 }

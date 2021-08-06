@@ -10,3 +10,8 @@
   line-height: 19px;
   text-transform: uppercase;
 }
+
+@media screen and (max-width:320px){
+  .quotes__heading{
+    font-size: 3vw;
+  }
