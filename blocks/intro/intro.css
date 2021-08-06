@@ -5,8 +5,8 @@
   grid-template-columns: 50% 50%;
 }
 
-@media screen and (max-width:320px){
-  .intro{
+@media screen and (max-width: 320px) {
+  .intro {
     grid-template-columns: 100%;
     grid-template-rows: 76vw 76vw;
   }

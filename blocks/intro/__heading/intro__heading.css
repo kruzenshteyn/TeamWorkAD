@@ -6,31 +6,26 @@
   font-weight: 700;
   margin: 114px 0 0 71px;
   text-transform: uppercase;
-  color: #FECDA7;
+  color: #fecda7;
 }
 
-@media screen and (max-width:1280px){
-  .intro__heading{
+@media screen and (max-width: 1280px) {
+  .intro__heading {
     font-size: 1vw;
     margin-top: 8.82vw;
     margin-left: 5.55vw;
   }
 }
 
-
-@media screen and (max-width:320px){
-  .intro__heading{
+@media screen and (max-width: 320px) {
+  .intro__heading {
     font-size: 2vw;
     margin-top: 17.6vw;
     margin-left: 11.1vw;
   }
 }
 
-
-
-
-
-  /* НИЖЕ - СВОЙСТВА, КОТОРЫЕ У ТЕБЯ ИЗНАЧАЛЬНО ИМЕЛ INTRO__HEADING.
+/* НИЖЕ - СВОЙСТВА, КОТОРЫЕ У ТЕБЯ ИЗНАЧАЛЬНО ИМЕЛ INTRO__HEADING.
 
   Я ИХ ЧУТЬ ИЗМЕНИЛА, ЧТОБЫ ОНИ СОВПАДАЛИ СО ШРИФТОМ И РАЗМЕРОМ ЭЛЕМЕНТОВ
   QUOTES__HEADING QUOTES__SOURCE. ЕСЛИ ЧТО, ПОТОМ ДОКРУТИМ.

@@ -6,28 +6,26 @@
   max-width: 356px;
 }
 
-.place__paragraph:last-of-type{
+.place__paragraph:last-of-type {
   margin-bottom: 84px;
 }
 
-.place__paragraph:nth-of-type(3)
-{
+.place__paragraph:nth-of-type(3) {
   margin-bottom: 64px;
 }
 
-@media screen and (max-width:1280px){
-  .place__paragraph{
+@media screen and (max-width: 1280px) {
+  .place__paragraph {
     margin: 0 5.55vw 1.9vw 5.55vw;
     font-size: 1.04vw;
     max-width: 27.8vw;
   }
 
-  .place__paragraph:last-of-type{
+  .place__paragraph:last-of-type {
     margin-bottom: 7vw;
   }
 
-  .place__paragraph:nth-of-type(3)
-  {
+  .place__paragraph:nth-of-type(3) {
     margin-bottom: 5vw;
   }
 }
@@ -39,14 +37,11 @@
     margin: 0 9.375vw 2.7vw 9.375vw;
   }
 
-  .place__paragraph:last-of-type{
+  .place__paragraph:last-of-type {
     margin-bottom: 11vw;
   }
 
-  .place__paragraph:nth-of-type(3)
-  {
+  .place__paragraph:nth-of-type(3) {
     margin-bottom: 8.3vw;
   }
 }
-
-
