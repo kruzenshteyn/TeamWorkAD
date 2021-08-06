@@ -1,6 +1,7 @@
 .quotes__text {
-  font-size: 1.04vw;
-  line-height: 1.5;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 1vw;
+  line-height: 21px;
   margin: 0;
   padding: 0;
 }

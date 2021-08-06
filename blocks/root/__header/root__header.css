@@ -1,13 +1,13 @@
 .root__header {
   background-color: #fff;
   max-width: 89%;
-  margin-top: 110px;
+  margin-top: 30px;
   margin-right: auto;
   margin-bottom: 80px;
   margin-left: auto;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
 }
 
 @media screen and (max-width: 1279px) {

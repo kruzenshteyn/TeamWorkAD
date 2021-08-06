@@ -1,5 +1,8 @@
 .quotes__title {
-  font-size: 80px;
+  width: 480px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 36px;
+  line-height: 42px;
   margin: 0;
   margin-bottom: 120px;
   padding: 0;

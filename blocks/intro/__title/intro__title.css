@@ -1,8 +1,10 @@
 .intro__title {
+  font-family: Roboto, Arial, sans-serif;
   font-size: 30px;
   line-height: 1.4;
   text-align: left;
-  font-weight: 900;
+  font-weight: 700; /*Я ПЕРЕПРОВЕРИЛА ШРИФТЫ ПО ФИГМЕ, И ТАМ ТЕ, ЧТО ЖИРНЫЕ, ВСЕ 700. А У НАС КОЕ-ГДЕ СТОЯЛО 900.
+  ПОПРАВИЛА. ЗДЕСЬ У ТЕБЯ СТОЯЛО 900, НАПРИМЕР*/
   margin-top: 25px;
   margin-left: 71px;
 }
