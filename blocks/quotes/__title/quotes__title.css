@@ -1,8 +1,8 @@
 .quotes__title {
   max-width: 480px;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: Roboto, Arial, sans-serif; /* Предлагаю это вынести в root, так как они не изменны для всей страницы*/
   font-size: 36px;
-  line-height: 42px;
+  line-height: 42px; /* Здесь должен быть коэффициент, иначе на меньших разрешениях разметка поплывет*/
   margin: 0;
   margin-bottom: 120px;
   padding: 0;
@@ -10,7 +10,7 @@
   font-size: 40px;
 }
 
-@media screen and (max-width: 2880px) {
+@media screen and (max-width: 2880px) {/*1280*/
   .quotes__title {
     font-size: 2.77vw;
   }

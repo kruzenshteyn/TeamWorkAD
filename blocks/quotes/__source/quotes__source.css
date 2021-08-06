@@ -6,7 +6,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 1vw;
-  line-height: 14px;
+  line-height: 14px;/* Здесь должен быть коэффициент, иначе на меньших разрешениях разметка поплывет*/
   text-transform: uppercase;
 }
 
